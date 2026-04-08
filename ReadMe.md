@@ -37,13 +37,6 @@
 
 ---
 
-### 📰 Publications
-
-- **"FPGA-Powered Solar Photovoltaic Module Defect Classification"** — *ASME Journal of Computing and Information Science in Engineering*, Nov 2025. [DOI: 10.1115/1.4070331](https://doi.org/10.1115/1.4070331)
-
-- **"Development of a Raspberry Pi-Based Quadruped Robot with Real-Time Monitoring"** — *IEEE NGISE 2025 Conference Proceedings*
-
-
 ### 🌐 Let's Connect
 
 - 💼 **LinkedIn**: [ghanashyamvinod](https://www.linkedin.com/in/ghanashyamvinod)
