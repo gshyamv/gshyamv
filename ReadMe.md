@@ -13,8 +13,7 @@
 
 ### 📜 Who Am I?
 - **Curious & Self-Driven**: I genuinely enjoy going down rabbit holes — whether it's evolution, cognitive psychology, or a new distributed systems paper at 2am. If it's interesting, I'm reading it.
-- **Backend Builder in Progress**: Currently deep in Spring Boot territory, learning to build systems that don't fall apart under load. AWS Cloud Practitioner is next on the checklist.
-- **AI Solutions Guy**: My B.Tech in AI & Data Science means I've spent a lot of time making machines do useful things — from RAG pipelines to multi-agent systems to FPGA-accelerated models.
+- **AI Guy**: My B.Tech in AI & Data Science means I've spent a lot of time making machines do useful things — from RAG pipelines to multi-agent systems to FPGA-accelerated models.
 - **Recovering Pessimist**: I'm a self-aware pessimist actively working to flip the script. It's a slow process, but the pull requests are getting merged.
 
 ---
@@ -42,7 +41,6 @@
 - 💼 **LinkedIn**: [ghanashyamvinod](https://www.linkedin.com/in/ghanashyamvinod)
 - 💻 **GitHub**: [gshyamv](https://github.com/gshyamv)
 - 📧 **Email**: ghanashyamvinod01@gmail.com
-- 📱 **Phone**: +91 8281503633
 
 ---
 
