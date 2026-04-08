@@ -43,16 +43,6 @@
 
 - **"Development of a Raspberry Pi-Based Quadruped Robot with Real-Time Monitoring"** — *IEEE NGISE 2025 Conference Proceedings*
 
----
-
-### 🏆 Achievements & Certifications
-
-- 🥇 **FAER Scholar Program Finalist 2024** — Selected from 600+ proposals for research on Deep Learning-powered 6G Networks (RSMA for xURLLC), conducted at Reva University, Bangalore.
-- 📜 **Deep Learning & Generative AI Immersion** — IIT Dharwad (CEP & QIP, June 2024)
-- 📜 **Deep Learning for NLP** — NPTEL, IIT Kharagpur (Prof. Pawan Goyal)
-- 📜 **LangChain: Build LLM-Powered Applications** — Udemy
-
----
 
 ### 🌐 Let's Connect
 
@@ -63,4 +53,4 @@
 
 ---
 
-✨ *"The most dangerous phrase in any language is 'we've always done it this way.' — Keep questioning, keep building."*
+✨ *"What we observe is not nature itself, but nature exposed to our method of questioning - Werner Heisenberg"*
