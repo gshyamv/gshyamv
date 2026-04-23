@@ -5,16 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=silkscreen&size=20&duration=2000&color=4A90E2&center=true&vCenter=true&width=900&lines=Welcome+to+my+corner+of+the+internet!;Building+Backends,+Clouds,+and+AI+Agents;Evolution,+Psychology,+and+Clean+Code!" alt="Typing SVG">
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gshyamv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-### 📜 Who Am I?
-- **Curious & Self-Driven**: I genuinely enjoy going down rabbit holes — whether it's evolution, cognitive psychology, or a new distributed systems paper at 2am. If it's interesting, I'm reading it.
-- **AI Guy**: My B.Tech in AI & Data Science means I've spent a lot of time making machines do useful things — from RAG pipelines to multi-agent systems to FPGA-accelerated models.
-- **Recovering Pessimist**: I'm a self-aware pessimist actively working to flip the script. It's a slow process, but the pull requests are getting merged.
 
 ---
 
@@ -26,7 +19,7 @@
 
 ---
 
-### 🚀 Projects That Kept Me Up at Night
+### 🚀 Projects
 
 - **BillDesk** — An agentic invoice ingestion & audit pipeline built with a LangGraph cyclic state machine, IBM Docling VLM, and vLLM for intelligent document classification, with pgvector semantic search for duplicate detection and a React analytics dashboard.
 
